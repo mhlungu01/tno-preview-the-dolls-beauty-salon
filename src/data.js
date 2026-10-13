@@ -1,0 +1,2 @@
+export const business = {"phone":"082 754 5680","location":"Diepkloof, Soweto","palette":["#492c3b","#dcaeb5","#faf1ef"],"sub":"An elegant salon concept to introduce the beauty experience in Diepkloof.","archetype":"Beauty editorial","title":"Your next look starts here.","industry":"Beauty salon","photo":"https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&fit=crop&w=1800&q=85","email":"","name":"The DOLLS Beauty SALON"};
+
